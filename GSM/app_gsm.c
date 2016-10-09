@@ -8,7 +8,7 @@
 #include "app_gsm.h"
 #include "app_protocol.h"
 #include "app_new_protocol.h"
-
+/*modify for test*/
 /* extern */
 extern uint16_t g_commu_packet_seq;
 extern struct gsm_usart_buf_struct g_gsm_usart_buf;
